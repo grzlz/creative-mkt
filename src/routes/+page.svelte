@@ -27,21 +27,21 @@
 					<!-- Badge -->
 					<div class="inline-flex items-center px-4 py-2 bg-gradient-to-r from-purple-500/20 to-blue-500/20 rounded-full border border-white/20 backdrop-blur-sm">
 						<div class="w-2 h-2 bg-green-400 rounded-full mr-2 animate-pulse"></div>
-						<span class="text-sm text-white/90 font-medium">Available for new projects</span>
+						<span class="text-sm text-white/90 font-medium">Disponibles para nuevos proyectos</span>
 					</div>
 
 					<!-- Main Headline -->
 					<div class="space-y-4">
 						<h1 class="text-5xl lg:text-7xl font-extrabold text-white leading-tight">
-							We Turn Your
+							Convertimos tu
 							<span class="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-								Vision
+								visión
 							</span>
-							Into Viral Marketing
+							en marketing viral
 						</h1>
 						<p class="text-xl lg:text-2xl text-gray-300 leading-relaxed">
-							Explosive growth, unforgettable brands, and campaigns that convert. 
-							We don't just do marketing – we create movements.
+							Crecimiento explosivo, marcas inolvidables y campañas que convierten. 
+							No solo hacemos marketing – creamos movimientos.
 						</p>
 					</div>
 
@@ -49,34 +49,34 @@
 					<div class="grid grid-cols-3 gap-8 py-8">
 						<div class="text-center">
 							<div class="text-3xl lg:text-4xl font-bold text-white mb-1">500%</div>
-							<div class="text-sm text-gray-400 uppercase tracking-wide">Avg ROI Increase</div>
+							<div class="text-sm text-gray-400 uppercase tracking-wide">Aumento ROI Promedio</div>
 						</div>
 						<div class="text-center">
 							<div class="text-3xl lg:text-4xl font-bold text-white mb-1">50M+</div>
-							<div class="text-sm text-gray-400 uppercase tracking-wide">Impressions Generated</div>
+							<div class="text-sm text-gray-400 uppercase tracking-wide">Impresiones Generadas</div>
 						</div>
 						<div class="text-center">
 							<div class="text-3xl lg:text-4xl font-bold text-white mb-1">200+</div>
-							<div class="text-sm text-gray-400 uppercase tracking-wide">Brands Transformed</div>
+							<div class="text-sm text-gray-400 uppercase tracking-wide">Marcas Transformadas</div>
 						</div>
 					</div>
 
 					<!-- CTA Buttons -->
 					<div class="flex flex-col sm:flex-row gap-4">
 						<a href="#contact" class="group relative inline-flex items-center px-8 py-4 bg-gradient-to-r from-purple-600 to-blue-600 text-white font-semibold rounded-xl hover:from-purple-700 hover:to-blue-700 transition-all duration-300 shadow-2xl shadow-purple-500/25 hover:shadow-purple-500/40 transform hover:-translate-y-1">
-							<span>Start Your Transformation</span>
+							<span>Inicia Tu Transformación</span>
 							<svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
 							</svg>
 						</a>
 						<a href="#portfolio" class="inline-flex items-center px-8 py-4 border-2 border-white/20 text-white font-semibold rounded-xl hover:bg-white/10 hover:border-white/40 transition-all duration-300 backdrop-blur-sm">
-							View Our Work
+							Ver Nuestro Trabajo
 						</a>
 					</div>
 
 					<!-- Social Proof -->
 					<div class="pt-8">
-						<p class="text-sm text-gray-400 mb-4">Trusted by industry leaders:</p>
+						<p class="text-sm text-gray-400 mb-4">Confianza de líderes de la industria:</p>
 						<div class="flex items-center space-x-6 opacity-60">
 							<div class="text-white font-semibold">NIKE</div>
 							<div class="text-white font-semibold">APPLE</div>
@@ -95,7 +95,7 @@
 							<!-- Chart/Graph element -->
 							<div class="absolute top-8 right-8 bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 animate-float">
 								<div class="flex items-center justify-between mb-4">
-									<span class="text-white text-sm font-medium">ROI Growth</span>
+									<span class="text-white text-sm font-medium">Crecimiento ROI</span>
 									<span class="text-green-400 text-xs">+127%</span>
 								</div>
 								<div class="h-20 flex items-end justify-between space-x-2">
@@ -110,15 +110,15 @@
 							<div class="absolute top-32 left-4 bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 animate-float delay-300">
 								<div class="flex items-center space-x-3">
 									<div class="w-3 h-3 bg-green-400 rounded-full animate-pulse"></div>
-									<span class="text-white text-sm">Campaign Live</span>
+									<span class="text-white text-sm">Campaña Activa</span>
 								</div>
-								<div class="text-gray-300 text-xs mt-1">+2.4K conversions today</div>
+								<div class="text-gray-300 text-xs mt-1">+2.4K conversiones hoy</div>
 							</div>
 
 							<!-- Metrics card -->
 							<div class="absolute bottom-16 left-8 bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 animate-float delay-700">
 								<div class="text-white text-lg font-bold">1.2M</div>
-								<div class="text-gray-300 text-xs">Monthly Reach</div>
+								<div class="text-gray-300 text-xs">Alcance Mensual</div>
 							</div>
 
 							<!-- Social engagement -->
@@ -127,9 +127,9 @@
 									<div class="w-6 h-6 bg-gradient-to-r from-pink-500 to-red-500 rounded-full flex items-center justify-center">
 										<span class="text-white text-xs">❤️</span>
 									</div>
-									<span class="text-white text-sm font-medium">Viral Post</span>
+									<span class="text-white text-sm font-medium">Post Viral</span>
 								</div>
-								<div class="text-gray-300 text-xs">850K engagements</div>
+								<div class="text-gray-300 text-xs">850K interacciones</div>
 							</div>
 						</div>
 
