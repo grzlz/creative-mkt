@@ -24,11 +24,7 @@
 				
 				<!-- Left Column - Content -->
 				<div class="space-y-8">
-					<!-- Badge -->
-					<div class="inline-flex items-center px-4 py-2 bg-gradient-to-r from-purple-500/20 to-blue-500/20 rounded-full border border-white/20 backdrop-blur-sm">
-						<div class="w-2 h-2 bg-green-400 rounded-full mr-2 animate-pulse"></div>
-						<span class="text-sm text-white/90 font-medium">Disponibles para nuevos proyectos</span>
-					</div>
+
 
 					<!-- Main Headline -->
 					<div class="space-y-4">
